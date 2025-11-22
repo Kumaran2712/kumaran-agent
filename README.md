@@ -1,4 +1,4 @@
-# 🤖 KumaranCage - AI Agent with Chain-of-Thought Reasoning
+# 🤖 Kumaran Code - AI Agent with Chain-of-Thought Reasoning
 
 <div align="center">
 
