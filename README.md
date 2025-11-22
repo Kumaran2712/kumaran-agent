@@ -284,7 +284,7 @@ Contributions are welcome! Here's how you can help:
 
 - GitHub: [@kumaran2712](https://github.com/Kumaran2712)
 - LinkedIn: [Kumaran S](https://www.linkedin.com/in/kumaran-sundarrajan96/)
--Twitter: [@Here_To_Code](https://x.com/Here_To_Code)
+- Twitter: [@Here_To_Code](https://x.com/Here_To_Code)
 - Email: kumaran271296@gmail.com
 
 ## 📖 Learn More
