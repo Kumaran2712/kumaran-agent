@@ -1,0 +1,9 @@
+README.md
+agent.py
+setup.py
+kumaran_agent.egg-info/PKG-INFO
+kumaran_agent.egg-info/SOURCES.txt
+kumaran_agent.egg-info/dependency_links.txt
+kumaran_agent.egg-info/entry_points.txt
+kumaran_agent.egg-info/requires.txt
+kumaran_agent.egg-info/top_level.txt

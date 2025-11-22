@@ -1,3 +1,32 @@
+Metadata-Version: 2.4
+Name: kumaran-agent
+Version: 0.1.0
+Summary: An AI agent with chain of thought processing
+Home-page: https://github.com/Kumaran2712/kumaran-agent
+Author: Kumaran Sundarrajan
+Author-email: kumaran271296@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: openai>=1.54.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: pydantic>=2.9.0
+Requires-Dist: requests>=2.31.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # 🤖 Kumaran Code - AI Agent with Chain-of-Thought Reasoning
 
 <div align="center">
@@ -32,7 +61,7 @@ An intelligent CLI agent that transparently solves complex tasks using chain-of-
 
 ### Option 1: Install from GitHub (Recommended)
 ```bash
-pip install git+https://github.com/Kumaran2712/kumaran-agent.git
+pip install git+https://github.com/yourusername/kumaran-agent.git
 ```
 
 ### Option 2: Install from Source
