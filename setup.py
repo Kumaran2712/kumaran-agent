@@ -12,7 +12,7 @@ setup(
     description="An AI agent with chain of thought processing",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Kumaran2712/kumaran-agent"
+    url="https://github.com/Kumaran2712/kumaran-agent",
     packages=find_packages(),
     py_modules=["agent"],
     install_requires=[
